@@ -1,0 +1,10 @@
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+venv/
+.DS_Store
+# dataset images and trained models are too large for GitHub
+data/Images/
+models/
+*.h5
+*.keras
